@@ -2,15 +2,18 @@
     
     background-color:  hsl(31, 77%, 52%);
     padding: 2em;
+     padding-bottom: 50px;
 
 }
 .suv{
    background-color:  hsl(184, 100%, 22%);
      padding: 2em;
+     padding-bottom: 50px;
 }
 .luxury{
     background-color: hsl(179, 100%, 13%);
      padding: 2em;
+    padding-bottom: 50px;
 }
 .cars{
     display: flex;
