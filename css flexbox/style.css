@@ -1,0 +1,75 @@
+.sedan{
+    
+    background-color:  hsl(31, 77%, 52%);
+    padding: 1.86em;
+     padding-bottom: 100px;
+     border-top-left-radius: 20px;
+     border-bottom-left-radius: 20px;
+
+}
+.suv{
+   background-color:  hsl(184, 100%, 22%);
+     padding: 2em;
+     padding-bottom: 100px;
+     font-family: ;
+}
+.luxury{
+    background-color: hsl(179, 100%, 13%);
+   
+    padding: 2em;
+   padding-bottom: 100px;
+     
+  
+   border-top-right-radius: 20px;
+   border-bottom-right-radius: 20px;
+   
+}
+.cars{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    box-sizing: content-box;
+    
+   
+
+}
+p{
+    color: hsla(0, 0%, 100%, 0.75);
+    text-align: justify;
+    font-size: 15px;
+    font-family: Lexend Deca; src:(https://fonts.google.com/specimen/Lexend+Deca);
+    font-weight: 400;
+}
+body{
+   
+  
+    
+}
+html{
+    min-height: 350px;
+    max-height: 1440px;
+    background-color: hsl(0, 0%, 95%);
+}
+
+button{
+    
+    border: none;
+    
+    padding: 20px;
+    text-align: center;
+    width: 200px;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    background-color:hsl(0, 0%, 95%);
+  border-radius: 20px;
+}
+h1{
+    font-family:Big Shoulders Display; src:(https://fonts.google.com/specimen/Big+Shoulders+Display);
+
+    font-weight: 700;
+    
+}
